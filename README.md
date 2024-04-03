@@ -1,16 +1,16 @@
-# CLIENT CHURN PREDICTION SYSTEM
+## CLIENT CHURN PREDICTION SYSTEM
 
 ![image](https://github.com/Ugondu/ClientChurnPredictionML/assets/113315492/991a44fc-7dc2-43e5-bb82-b1da63807850)
 
 ## Table of Contents
-- [Project Overview] (#Project-overview)
-- [Project Objective] (#Project-objective)
-- [Data Sources] (#data-sources)
-- [Data Preprocessing] (#data-preprocessing)
-- [Machine Learning Models] (#machine-learning-models)
-- [Evaluation Metrics] (#evaluation-metrics)
-- [Key Insights] (#key-insights)
-- [Conclusion and Recommendation] (#conclusion-and-recommendation)
+- [Project Overview](#Project-overview)
+- [Project Objective](#Project-objective)
+- [Data Sources](#data-sources)
+- [Data Preprocessing](#data-preprocessing)
+- [Machine Learning Models](#machine-learning-models)
+- [Evaluation Metrics](#evaluation-metrics)
+- [Key Insights](#key-insights)
+- [Conclusion and Recommendation](#conclusion-and-recommendation)
 
   
 ## Project Overview
@@ -34,10 +34,10 @@ After extensive experimentation and hyperparameter tuning, the final machine lea
 
 ## Evaluation Metrics
 To assess the performance of the machine learning model, the following metrics were utilised.
--	** Accuracy: ** This is the overall proportion of correct predictions made by each model. This metric provides an overall assessment of the model performance in correctly classifying customers as churners or non-churners.
--	** Precision: ** Precision represents the accuracy of identifying actual churners among the predicted churners. High precision indicates fewer false positives, which is important for minimizing the cost of incorrectly identifying non-churners as churners.
--	** Recall (Sensitivity): ** Recall measures the proportion of true positive predictions out of all actual instances belonging to the positive class. It represents the model's ability to correctly identify all actual churners among the total number of churners. High recall indicates fewer false negatives, which is important for capturing as many actual churners as possible to prevent customer attrition.
--	** F1-score: ** The F1-score is the harmonic mean of precision and recall, providing a balanced measure of a model's performance. It considers both false positives and false negatives and is particularly useful when there is an imbalance between the classes in the dataset.
+-	**Accuracy:** This is the overall proportion of correct predictions made by each model. This metric provides an overall assessment of the model performance in correctly classifying customers as churners or non-churners.
+-	**Precision:** Precision represents the accuracy of identifying actual churners among the predicted churners. High precision indicates fewer false positives, which is important for minimizing the cost of incorrectly identifying non-churners as churners.
+-	**Recall (Sensitivity):** Recall measures the proportion of true positive predictions out of all actual instances belonging to the positive class. It represents the model's ability to correctly identify all actual churners among the total number of churners. High recall indicates fewer false negatives, which is important for capturing as many actual churners as possible to prevent customer attrition.
+-	**F1-score:** The F1-score is the harmonic mean of precision and recall, providing a balanced measure of a model's performance. It considers both false positives and false negatives and is particularly useful when there is an imbalance between the classes in the dataset.
   
 ## Key Insights
 -	this project aims to predict churners. 
