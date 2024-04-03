@@ -27,8 +27,8 @@ Before fitting the data into the machine learning model, extensive data preproce
 
 ## Machine Learning Model
 The prediction model is built using supervised machine learning algorithms. Training and test data was split ratio 20:80. Three different models were built, trained, and experimented with to determine the best performing model. The model experimented with are.
--	** Logistic Regression**
--	** Random Forest Classifiers**
+-	**Logistic Regression**
+-	**Random Forest Classifiers**
 -	**K-Nearest Neighbors**
 After extensive experimentation and hyperparameter tuning, the final machine learning model was determined based on its performance and generalisation capabilities.
 
